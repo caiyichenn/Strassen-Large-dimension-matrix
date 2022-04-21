@@ -1,1 +1,0 @@
-# Strassen-Large-dimension-matrix
